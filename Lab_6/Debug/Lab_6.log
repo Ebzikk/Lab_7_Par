@@ -1,0 +1,4 @@
+﻿  Lab_6.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+c:\users\eduuu\desktop\учоба\lab_7_par\lab_6\lab_6.cpp(33): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab_6.vcxproj -> C:\Users\eduuu\Desktop\УЧОБА\Lab_7_par\Debug\Lab_6.exe
